@@ -3,7 +3,7 @@
         width: 100%;
         z-index: -1;
         position: absolute;
-        margin-top: -87%;
+        margin-top: -50%;
     }
 
     #detalhes{
@@ -23,7 +23,7 @@
         height: 16em;
         border-radius: 25px;
         z-index: 1;
-        margin-top: -29%;
+        margin-top: -40%;
         position: absolute;
         background-color: #05664F;
         margin-left: 20%;
